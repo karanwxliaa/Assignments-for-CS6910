@@ -1,0 +1,5 @@
+wandb==0.12.2
+tensorflow-gpu==2.4.1
+numpy
+sklearn
+pandas
